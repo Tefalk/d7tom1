@@ -1,3 +1,4 @@
 name = d7tom1
 description = Shows internal structures and connections of the web site.
+package = Development
 core = 7.x
